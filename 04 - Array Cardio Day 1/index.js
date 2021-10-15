@@ -96,3 +96,5 @@ const transportation = data.reduce( function ( obj, item ) {
 }, {} )
 
 console.log( transportation )
+
+// test
